@@ -199,7 +199,7 @@ Possible improvements for future versions include:
 
 **Shahzaib Ali**
 
-Computer Engineering Student
+Software Engineering Student
 Pakistan
 
 ---
